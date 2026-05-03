@@ -34,9 +34,11 @@
 
 ## Screenshots
 ###Input form
-<img width="1920" height="1200" alt="screenshot1" src="https://github.com/user-attachments/assets/6089444b-2e46-4c3b-9cf6-720e092646c2" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/99485591-08d9-493c-ae6e-08dee4db4aa0" />
+
 ###Output form
-<img width="1920" height="1200" alt="screenshot2" src="https://github.com/user-attachments/assets/4868d5ca-d9fe-4792-90d0-088949c2632c" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/690da12f-3e96-44f1-90d3-2995c6830c2d" />
+
 
   ## Servlet Concept Practiced
 
